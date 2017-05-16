@@ -9,3 +9,12 @@ Takes two matrices and compares each of their values with the value sharing the 
 
 factorial:
 pairs every value in an array with every other value in the array once, returns the result of matrixComp upon creating every pair.
+
+trainingSet = ['noun','verb','verb','adjective','noun']
+
+//pair each word with it's right-most neighbor
+pairs = venn.groupTwo(TrainingSet)
+
+// pair each pair created by groupTwo with every other pair once; for every time this
+// done return true if the pairs are identical, otherwise return false
+venn.factorialpvenn.factorial(pairs)
