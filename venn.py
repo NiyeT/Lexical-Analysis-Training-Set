@@ -53,12 +53,3 @@ class venn:
 				print '\n'
 
 venn=venn()
-
-test=[
-['noun','verb','verb','adjective','noun'],
-['interjection','pronoun','verb','determiner','noun','preposition','determiner','noun']
-]
-
-for array in test:
-	val=venn.groupTwo(array)
-	venn.factorial(val)
