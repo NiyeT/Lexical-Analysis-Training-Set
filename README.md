@@ -23,5 +23,5 @@ pairs = venn.groupTwo(TrainingSet)
 // pair each pair created by groupTwo with every other pair once; for every time this
 // done return true if the pairs are identical, otherwise return false
 
-venn.factorialpvenn.factorial(pairs)
+cases=venn.factorial(pairs)
 ````
